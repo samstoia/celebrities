@@ -1,0 +1,16 @@
+h3, h1 {
+  text-align: center;
+}
+
+p {
+  font-weight: bold;
+}
+
+#crissy, #taylor {
+  display: none;
+}
+
+img {
+  height: 200px;
+  width: 170px;
+}
